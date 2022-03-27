@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Persistent Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/UI.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/03.Home.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
